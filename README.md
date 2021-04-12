@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By Dani Renner
+#### By Dani Renner.
 
 ## Technologies Used
 
@@ -29,7 +29,7 @@
 * Open the project in a text editor to view the code.
 
 ## Known Bugs
-
+;
 * _Any known issues_
 * _should go here_
 
